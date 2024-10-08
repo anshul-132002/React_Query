@@ -1,0 +1,286 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "id": 2,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "id": 3,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    },
+    {
+      "title": "anshul s",
+      "body": "shrivas no iti",
+      "id": 4
+    },
+    {
+      "title": "asdf",
+      "body": "fdfadsfdsfds",
+      "id": 5
+    },
+    {
+      "title": "testing 2",
+      "body": "hello from anshul shrivas ",
+      "id": 6
+    },
+    {
+      "title": "post A",
+      "body": "Body A",
+      "id": 7
+    },
+    {
+      "title": "testing 4",
+      "body": "hello esting",
+      "id": 8
+    }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "name": "apple"
+    },
+    {
+      "id": 2,
+      "name": "banana"
+    },
+    {
+      "id": 3,
+      "name": "cherry"
+    },
+    {
+      "id": 4,
+      "name": "date"
+    },
+    {
+      "id": 5,
+      "name": "elderberry"
+    },
+    {
+      "id": 6,
+      "name": "fig"
+    },
+    {
+      "id": 7,
+      "name": "grape"
+    },
+    {
+      "id": 8,
+      "name": "honeydew"
+    },
+    {
+      "id": 9,
+      "name": "kiwi"
+    },
+    {
+      "id": 10,
+      "name": "lemon"
+    },
+    {
+      "id": 11,
+      "name": "mango"
+    },
+    {
+      "id": 12,
+      "name": "nectarine"
+    },
+    {
+      "id": 13,
+      "name": "orange"
+    },
+    {
+      "id": 14,
+      "name": "papaya"
+    },
+    {
+      "id": 15,
+      "name": "quince"
+    },
+    {
+      "id": 16,
+      "name": "raspberry"
+    },
+    {
+      "id": 17,
+      "name": "strawberry"
+    },
+    {
+      "id": 18,
+      "name": "tangerine"
+    },
+    {
+      "id": 19,
+      "name": "ugli fruit"
+    },
+    {
+      "id": 20,
+      "name": "watermelon"
+    },
+    {
+      "id": 21,
+      "name": "blueberry"
+    },
+    {
+      "id": 22,
+      "name": "cantaloupe"
+    },
+    {
+      "id": 23,
+      "name": "dragon fruit"
+    },
+    {
+      "id": 24,
+      "name": "guava"
+    },
+    {
+      "id": 25,
+      "name": "jackfruit"
+    },
+    {
+      "id": 26,
+      "name": "kumquat"
+    },
+    {
+      "id": 27,
+      "name": "lime"
+    },
+    {
+      "id": 28,
+      "name": "mulberry"
+    },
+    {
+      "id": 29,
+      "name": "passion fruit"
+    },
+    {
+      "id": 30,
+      "name": "pomegranate"
+    },
+    {
+      "id": 31,
+      "name": "pear"
+    },
+    {
+      "id": 32,
+      "name": "peach"
+    },
+    {
+      "id": 33,
+      "name": "plum"
+    },
+    {
+      "id": 34,
+      "name": "pineapple"
+    },
+    {
+      "id": 35,
+      "name": "blackberry"
+    },
+    {
+      "id": 36,
+      "name": "apricot"
+    },
+    {
+      "id": 37,
+      "name": "lychee"
+    },
+    {
+      "id": 38,
+      "name": "gooseberry"
+    },
+    {
+      "id": 39,
+      "name": "rambutan"
+    },
+    {
+      "id": 40,
+      "name": "persimmon"
+    },
+    {
+      "id": 41,
+      "name": "starfruit"
+    },
+    {
+      "id": 42,
+      "name": "cranberry"
+    },
+    {
+      "id": 43,
+      "name": "coconut"
+    },
+    {
+      "id": 44,
+      "name": "blackcurrant"
+    },
+    {
+      "id": 45,
+      "name": "soursop"
+    },
+    {
+      "id": 46,
+      "name": "longan"
+    },
+    {
+      "id": 47,
+      "name": "durian"
+    },
+    {
+      "id": 48,
+      "name": "sapodilla"
+    },
+    {
+      "id": 49,
+      "name": "tamarind"
+    },
+    {
+      "id": 50,
+      "name": "satsuma"
+    },
+    {
+      "id": 51,
+      "name": "custard apple"
+    },
+    {
+      "id": 52,
+      "name": "boysenberry"
+    },
+    {
+      "id": 53,
+      "name": "marionberry"
+    },
+    {
+      "id": 54,
+      "name": "medlar"
+    },
+    {
+      "id": 55,
+      "name": "barbados cherry"
+    },
+    {
+      "id": 56,
+      "name": "jabuticaba"
+    },
+    {
+      "id": 57,
+      "name": "salak"
+    },
+    {
+      "id": 58,
+      "name": "acerola"
+    },
+    {
+      "id": 59,
+      "name": "santol"
+    },
+    {
+      "id": 60,
+      "name": "mamoncillo"
+    }
+  ]
+}

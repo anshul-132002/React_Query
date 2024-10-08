@@ -1,0 +1,101 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": " aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "id": 2,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "id": 3,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "name": "apple"
+    },
+    {
+      "id": 2,
+      "name": "banana"
+    },
+    {
+      "id": 3,
+      "name": "cherry"
+    },
+    {
+      "id": 4,
+      "name": "date"
+    },
+    {
+      "id": 5,
+      "name": "elderberry"
+    },
+    {
+      "id": 6,
+      "name": "fig"
+    },
+    {
+      "id": 7,
+      "name": "grape"
+    },
+    {
+      "id": 8,
+      "name": "honeydew"
+    },
+    {
+      "id": 9,
+      "name": "kiwi"
+    },
+    {
+      "id": 10,
+      "name": "lemon"
+    },
+    {
+      "id": 11,
+      "name": "mango"
+    },
+    {
+      "id": 12,
+      "name": "nectarine"
+    },
+    {
+      "id": 13,
+      "name": "orange"
+    },
+    {
+      "id": 14,
+      "name": "papaya"
+    },
+    {
+      "id": 15,
+      "name": "quince"
+    },
+    {
+      "id": 16,
+      "name": "raspberry"
+    },
+    {
+      "id": 17,
+      "name": "strawberry"
+    },
+    {
+      "id": 18,
+      "name": "tangerine"
+    },
+    {
+      "id": 19,
+      "name": "ugli fruit"
+    },
+    {
+      "id": 20,
+      "name": "watermelon"
+    }
+  ]
+}
